@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Aloud (ASH ver.)",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-08T04:49:50.228172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aloud (Ash Ver.)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/01_Aloud_(Ash_Ver.)_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aloud (ASH ver.)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Aloud_(ASH_ver.)_Orangestar.txt"
+    }
+  ]
+}
